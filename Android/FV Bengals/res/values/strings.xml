@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FV Bengals</string>
+    <string name="iAthleticsAppId">3</string>
+    <string name="iAthleticsLinkToApplication">http://iathletics.appapro.com/iathletics/landing/FVBengals/</string>
+    <string name="iAthleticsSupportEmail">fv_support@appapro.com</string>
+    <string name="iAthleticsTeamName">FV Bengals</string>
+
+</resources>

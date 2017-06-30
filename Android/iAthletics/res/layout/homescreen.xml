@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    <ExpandableListView 
+    	android:layout_width="fill_parent" 
+    	android:layout_weight="1.00" 
+    	android:layout_height="fill_parent" android:id="@+id/MainMenuView">
+    </ExpandableListView>
+    <com.appapro.iathletics.views.AdImageView
+    	android:src="@drawable/icon" 
+    	android:layout_height="50dp" 
+    	android:id="@+id/adImageView" 
+    	android:layout_width="320dp">
+    </com.appapro.iathletics.views.AdImageView>
+</LinearLayout>

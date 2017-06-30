@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HP-Sports</string>
+    <string name="iAthleticsAppId">8</string>
+    <string name="iAthleticsLinkToApplication">http://iathletics.appapro.com/iathletics/landing/HP-Sports/</string>
+    <string name="iAthleticsSupportEmail">HP-Sports_support@appapro.com</string>
+    <string name="iAthleticsTeamName">HP-Sports</string>
+
+</resources>

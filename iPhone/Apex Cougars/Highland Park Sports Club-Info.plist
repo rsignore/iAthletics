@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>HP-Sports</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>icon57.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon57.png</string>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon57.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.appapro.HP-Sports</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.3</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 2010-2012, Appapro LLC, all rights reserved</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>NSPrincipalClass</key>
+	<string>iAthleticsApplication</string>
+	<key>UIRequiresPersistentWiFi</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>iAthleticsAppId</key>
+	<string>8</string>
+	<key>iAthleticsLinkToApplication</key>
+	<string>http://iathletics.appapro.com/iathletics/landing/HP-Sports/</string>
+	<key>iAthleticsServiceUrl</key>
+	<string>http://iathletics.appapro.com/services/version1_0.asmx/</string>
+	<key>iAthleticsSupportEmail</key>
+	<string>HP-Sports_support@appapro.com</string>
+	<key>iAthleticsTeamName</key>
+	<string>HP-Sports</string>
+</dict>
+</plist>

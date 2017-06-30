@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:orientation="horizontal">
+    <ImageView android:src="@drawable/icon" android:layout_height="48dp" android:layout_width="48dp" android:id="@+id/icon" android:layout_gravity="center_vertical"></ImageView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:orientation="vertical" android:minHeight="70dp" android:layout_height="70dp" android:layout_gravity="left|center_vertical">
+        <TextView android:text="Monday, September 2011" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/eventDate"></TextView>
+        <TextView android:text="Varsity Womens Soccer" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:id="@+id/teamSportName"></TextView>
+        <TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:id="@+id/eventName" android:text="vs. Cary High School"></TextView>
+    </LinearLayout>
+    <TextView android:text="4:00 PM" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/eventTime" android:layout_gravity="top|right" android:layout_width="fill_parent" android:gravity="right|center"></TextView>
+    
+</LinearLayout>

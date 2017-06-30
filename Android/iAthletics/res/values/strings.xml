@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apex Cougars</string>
+    <string name="iAthleticsAppId">2</string>
+    <string name="iAthleticsLinkToApplication">http://bit.ly/9KFjOJ</string>
+    <string name="iAthleticsServiceUrl">http://iathletics.appapro.com/services/version1_0.asmx/</string>
+    <string name="iAthleticsSupportEmail">apex_support@appapro.com</string>
+    <string name="iAthleticsTeamName">Apex Cougars</string>
+    <string name="visit_website">Would you like to visit the sponsor\'s website?</string>
+    <string name="loading">Loading. Please wait...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="sharingAndSupportMenuChoices">
+        <item>Share app with friends</item>
+        <item>Email technical support</item>
+    </string-array>
+    <string name="shareWithFirendsEmailBody" formatted="false">Check out the mobile app for the %s! It works on iPhones, iPods, and Android phones. You can download it at %s.</string>
+    <string name="shareWithFriendsEmailSubject" formatted="false">Get the mobile app for the %s.</string>
+    <string formatted="false" name="shareEventWithFriendsEmailBody">I wanted to let you know about the %s %s %s event at %s on %s. The event is located at %s. Here\'s a link for directions %s.</string>
+    <string name="shareEventWithFriendsEmailSubject" formatted="false">%s %s %s event on %s</string>
+    <color name="gray">#777777</color>
+    <color name="dark_gray">#333333</color>
+</resources>

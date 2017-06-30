@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            text-align: center;
+        }
+        .style2
+        {
+            font-size: small;
+        }
+        .style3
+        {
+            font-size: small;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <img alt="iathletics logo" 
+            src="images/appapro%20iathletics%20mobile%20banner.png" 
+            style="width: 320px; height: 70px" />
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <hr />
+    <div class="style1">
+        <span class="style3">Appapro iAthletics</span><span class="style2"> is copyright 2010 by Appapro, all rights reserved.
+        </span>
+    </div>
+    </form>
+</body>
+</html>

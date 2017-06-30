@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Apex Cougars */ = {
+		activeExec = 0;
+		executables = (
+			D847735E1391C374008C0AF8 /* Apex Cougars */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = D847735E1391C374008C0AF8 /* Apex Cougars */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Apex Cougars */;
+		breakpoints = (
+			D8CB955213FE05FD002AC9C7 /* TeamScheduleService.m:39 */,
+			D8CB955413FE0602002AC9C7 /* TeamScheduleService.m:41 */,
+			D8CB955F13FE0DDA002AC9C7 /* TeamScheduleService.m:59 */,
+		);
+		codeSenseManager = D847736C1391C39E008C0AF8 /* Code sense */;
+		executables = (
+			D847735E1391C374008C0AF8 /* Apex Cougars */,
+		);
+		expressions = (
+			self.nextEvent.eventDateTime,
+			compResult,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					455,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					551,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336942121;
+			PBXWorkspaceStateSaveDate = 336942121;
+		};
+		perUserProjectItems = {
+			D82EAB5513FD7A5000D3D74D /* PBXTextBookmark */ = D82EAB5513FD7A5000D3D74D /* PBXTextBookmark */;
+			D82EAB5613FD7A5000D3D74D /* PBXTextBookmark */ = D82EAB5613FD7A5000D3D74D /* PBXTextBookmark */;
+			D82EAB5813FD7A5000D3D74D /* PBXTextBookmark */ = D82EAB5813FD7A5000D3D74D /* PBXTextBookmark */;
+			D846AC381415109E004F0729 /* PBXTextBookmark */ = D846AC381415109E004F0729 /* PBXTextBookmark */;
+			D84A52D314155770008A063A /* PBXTextBookmark */ = D84A52D314155770008A063A /* PBXTextBookmark */;
+			D84A52D414155770008A063A /* PBXTextBookmark */ = D84A52D414155770008A063A /* PBXTextBookmark */;
+			D84A52D514155770008A063A /* PlistBookmark */ = D84A52D514155770008A063A /* PlistBookmark */;
+			D84A52D614155770008A063A /* PlistBookmark */ = D84A52D614155770008A063A /* PlistBookmark */;
+			D8CB954E13FE04FB002AC9C7 /* PBXTextBookmark */ = D8CB954E13FE04FB002AC9C7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D847736B1391C39E008C0AF8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7238108B11CFB50000E592BD /* EventViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 2509}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1366, 861}";
+		};
+	};
+	7238114C11CFEB2F00E592BD /* TeamScheduleService.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 1287}}";
+			sepNavSelRange = "{1266, 974}";
+			sepNavVisRange = "{1362, 887}";
+		};
+	};
+	7296A3DD11CD4E6A0031D169 /* UpcomingEventsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{70, 851}";
+		};
+	};
+	7296A3DE11CD4E6A0031D169 /* UpcomingEventsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 3874}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 860}";
+			sepNavWindowFrame = "{{15, 123}, {1014, 750}}";
+		};
+	};
+	72AA4BCB11C7ED56000ACC2A /* NextEventService.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {686, 1950}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	72D9E48311D0011D00A61AD6 /* TeamScheduleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {686, 446}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	72D9E48411D0011D00A61AD6 /* TeamScheduleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 2119}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1632, 835}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 123}, {1014, 750}}";
+		};
+	};
+	D82EAB5513FD7A5000D3D74D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7238108B11CFB50000E592BD /* EventViewController.m */;
+		name = "EventViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 1366;
+	};
+	D82EAB5613FD7A5000D3D74D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 72D9E48311D0011D00A61AD6 /* TeamScheduleViewController.h */;
+		name = "TeamScheduleViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	D82EAB5813FD7A5000D3D74D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 72D9E48411D0011D00A61AD6 /* TeamScheduleViewController.m */;
+		name = "TeamScheduleViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 1632;
+	};
+	D846AC381415109E004F0729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7238114C11CFEB2F00E592BD /* TeamScheduleService.m */;
+		name = "TeamScheduleService.m: 61";
+		rLen = 974;
+		rLoc = 1266;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 1360;
+	};
+	D847735E1391C374008C0AF8 /* Apex Cougars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Apex Cougars";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D847736B1391C39E008C0AF8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D847736C1391C39E008C0AF8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D84A52D314155770008A063A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7296A3DD11CD4E6A0031D169 /* UpcomingEventsViewController.h */;
+		name = "UpcomingEventsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 70;
+	};
+	D84A52D414155770008A063A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7296A3DE11CD4E6A0031D169 /* UpcomingEventsViewController.m */;
+		name = "UpcomingEventsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 860;
+		vrLoc = 0;
+	};
+	D84A52D514155770008A063A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleName,
+		);
+		name = "/Volumes/Robert Signore/Appapro/iAthletics/iPhone/Apex Cougars/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D84A52D614155770008A063A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Volumes/Robert Signore/Appapro/iAthletics/iPhone/Apex Cougars/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D8CB954E13FE04FB002AC9C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 72AA4BCB11C7ED56000ACC2A /* NextEventService.m */;
+		name = "NextEventService.m: 14";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	D8CB955213FE05FD002AC9C7 /* TeamScheduleService.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 7238114C11CFEB2F00E592BD /* TeamScheduleService.m */;
+		functionName = "-addCurrentItemToDictionary";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = "Apex Cougars";
+		modificationTime = 335419375.209294;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D8CB955413FE0602002AC9C7 /* TeamScheduleService.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 7238114C11CFEB2F00E592BD /* TeamScheduleService.m */;
+		functionName = "-addCurrentItemToDictionary";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = "Apex Cougars";
+		modificationTime = 335419375.210264;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D8CB955F13FE0DDA002AC9C7 /* TeamScheduleService.m:59 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 7238114C11CFEB2F00E592BD /* TeamScheduleService.m */;
+		functionName = "-yesterday";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 59;
+		location = "Apex Cougars";
+		modificationTime = 335419398.792731;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+}

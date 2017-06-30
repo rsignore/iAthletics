@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1">
+<LinearLayout
+
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:layout_weight="1" android:gravity="center">
+    <ImageView android:src="@drawable/icon" android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="fill_parent"></ImageView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:gravity="center" android:layout_height="wrap_content" android:minHeight="50dp">
+        <ImageView android:src="@drawable/icon" android:layout_height="wrap_content" android:id="@+id/icon" android:layout_gravity="center_horizontal" android:layout_width="wrap_content"></ImageView>
+        <LinearLayout android:id="@+id/linearLayout2" android:layout_height="fill_parent" android:orientation="vertical" android:layout_width="fill_parent">
+            <TextView android:text="Junior Varsity Volleyball" android:gravity="center" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="fill_parent" android:id="@+id/teamSportName"></TextView>
+            <TextView android:gravity="center" android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/eventName" android:textAppearance="?android:attr/textAppearanceMedium" android:text="vs. Green Hope High School"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:gravity="center" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Tuesday, September 7 at 4:30 PM" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/eventDateTime" android:paddingTop="10dp"></TextView>
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:layout_width="fill_parent" android:gravity="center" android:textAppearance="?android:attr/textAppearanceMedium" android:text="at" android:paddingTop="10dp"></TextView>
+    <TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/venuName" android:text="Apex High School" android:layout_width="fill_parent" android:gravity="center"></TextView>
+    <TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/address1" android:text="1501 Laura Duncan Rd." android:gravity="center" android:layout_width="fill_parent" android:paddingTop="10dp"></TextView>
+    <TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/address2" android:gravity="center" android:layout_width="fill_parent" android:text="address line 2"></TextView>
+    <TextView android:gravity="center" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="fill_parent" android:text="Apex, NC 27502" android:id="@+id/address3"></TextView>
+    <LinearLayout android:id="@+id/linearLayout3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Map and Directions" android:id="@+id/mapButton" android:layout_marginRight="20dp"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/shareButton" android:text="Share with friends"></Button>
+    </LinearLayout>
+    
+</LinearLayout>
+ <com.appapro.iathletics.views.AdImageView
+    	android:src="@drawable/icon" 
+    	android:id="@+id/adImageView" 
+    	android:layout_width="320dp" android:layout_height="50dp" android:maxHeight="50dp" android:maxWidth="320dp" android:minHeight="50dp" android:minWidth="320dp" android:layout_weight="10" android:layout_gravity="center">
+    </com.appapro.iathletics.views.AdImageView>
+</LinearLayout>
